@@ -1,0 +1,12 @@
+{"level":"info","message":"서버 시작, 포트: 3000"}
+{"level":"info","message":"1700802228183 무한로깅"}
+{"level":"info","message":"1700802228697 무한로깅"}
+{"level":"info","message":"1700802229198 무한로깅"}
+{"level":"info","message":"1700802229711 무한로깅"}
+{"level":"error","message":"ReferenceError: path is not defined\n    at file:///C:/Users/sinam.SDS/Desktop/test/elk_test/main.js:44:27\n    at Layer.handle [as handle_request] (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:513:28)"}
+{"level":"info","message":"1700802230216 무한로깅"}
+{"level":"info","message":"1700802230725 무한로깅"}
+{"level":"info","message":"1700802231241 무한로깅"}
+{"level":"info","message":"1700802231755 무한로깅"}
+{"level":"info","message":"1700802232261 무한로깅"}
+{"level":"info","message":"1700802232768 무한로깅"}

@@ -1,0 +1,22 @@
+{"level":"info","message":"1700802120175 무한로깅"}
+{"level":"info","message":"1700802120691 무한로깅"}
+{"level":"info","message":"1700802121196 무한로깅"}
+{"level":"info","message":"1700802121712 무한로깅"}
+{"level":"info","message":"1700802122213 무한로깅"}
+{"level":"info","message":"1700802122714 무한로깅"}
+{"level":"info","message":"1700802123214 무한로깅"}
+{"level":"info","message":"1700802123729 무한로깅"}
+{"level":"info","message":"1700802124241 무한로깅"}
+{"level":"info","message":"1700802124754 무한로깅"}
+{"level":"info","message":"1700802125267 무한로깅"}
+{"level":"error","message":"ReferenceError: path is not defined\n    at file:///C:/Users/sinam.SDS/Desktop/test/elk_test/main.js:45:25\n    at Layer.handle [as handle_request] (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at SendStream.error (C:\\Users\\sinam.SDS\\Desktop\\test\\elk_test\\node_modules\\serve-static\\index.js:121:7)\n    at SendStream.emit (node:events:513:28)"}
+{"level":"info","message":"1700802125767 무한로깅"}
+{"level":"info","message":"1700802126275 무한로깅"}
+{"level":"info","message":"1700802126776 무한로깅"}
+{"level":"info","message":"1700802127289 무한로깅"}
+{"level":"info","message":"1700802127799 무한로깅"}
+{"level":"info","message":"1700802128314 무한로깅"}
+{"level":"info","message":"1700802128830 무한로깅"}
+{"level":"info","message":"1700802129334 무한로깅"}
+{"level":"info","message":"1700802129851 무한로깅"}
+{"level":"info","message":"1700802130360 무한로깅"}
